@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="87aff3a5fa1798f886654688ef35736e.jpg" />
+  <img src="87aff3a5fa1798f886654688ef35736e.jpg" width = "50%" />
 </div>
 
 <br />
